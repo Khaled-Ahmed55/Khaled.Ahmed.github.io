@@ -11,8 +11,9 @@ This site collects our project materials, notes, and deliverables.
 ## Project Resources
 - [Project Proposal](#)
 - [Weekly report 3](Weekly_progres_report_3.pdf)
+- [Weekly report 4]
 - [Slides](#)
-- [Shared Folder](#)
+- [Course Book](Mechatronics_Electronic_Control_Systems_in_Mechanical_and_Electrical_Engineering.pdf)
 - [Video Demo](#)
 ## Results
 Write 2–4 sentences explaining what your project is about and what you found.
