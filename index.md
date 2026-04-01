@@ -10,7 +10,7 @@ This site collects our project materials, notes, and deliverables.
 ## Background
 This project focuses on developing a robotic system that integrates mechanical design, actuators, sensors, and control systems. The system uses ROS2, Raspberry Pi, and Arduino to coordinate movement, object detection, and sorting. It also includes magnetic sensing to identify metal objects like nuts and screws.
 ## Project Resources
-- [Project Proposal](#)
+- [Project Proposal](Project Proposal.pdf)
 - [Weekly report 3](Weekly_progres_report_3.pdf)
 - [Weekly report 4]()
 - [Slides](Mechatronic_Digital_Logic.pdf)
