@@ -10,7 +10,7 @@ How can we design and test a simple project website using GitHub Pages?
 This site collects our project materials, notes, and deliverables.
 ## Project Resources
 - [Project Proposal](#)
-- [Weekly report 3](#)
+- [Weekly report 3](Weekly_progres_report_3.pdf)
 - [Slides](#)
 - [Shared Folder](#)
 - [Video Demo](#)
