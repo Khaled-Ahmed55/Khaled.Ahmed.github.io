@@ -1,4 +1,4 @@
-# My Project Website
+# pick place robot
 ## Team Members
 - Khaled Ahmed
 - Omar Yousef
