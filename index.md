@@ -11,7 +11,7 @@ This site collects our project materials, notes, and deliverables.
 ## Project Resources
 - [Project Proposal](#)
 - [Weekly report 3](Weekly_progres_report_3.pdf)
-- [Weekly report 4]
+- [Weekly report 4].(Weekly_progress_report_week4.pdf)
 - [Slides](#)
 - [Course Book](Mechatronics_Electronic_Control_Systems_in_Mechanical_and_Electrical_Engineering.pdf)
 - [Video Demo](#)
