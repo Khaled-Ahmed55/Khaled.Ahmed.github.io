@@ -4,19 +4,20 @@
 - Omar Yousef
 - Hamza Sabbah
 - Abdel Aziz Omran
-## Project Question
-How can we design and test a simple project website using GitHub Pages?
-## Background
+## Project goal
+How can we design, build, and test a smart pick-and-place robotic system that can detect, sort, and handle objects efficiently?## Background
 This site collects our project materials, notes, and deliverables.
+## Background
+This project focuses on developing a robotic system that integrates mechanical design, actuators, sensors, and control systems. The system uses ROS2, Raspberry Pi, and Arduino to coordinate movement, object detection, and sorting. It also includes magnetic sensing to identify metal objects like nuts and screws.
 ## Project Resources
 - [Project Proposal](#)
 - [Weekly report 3](Weekly_progres_report_3.pdf)
-- [Weekly report 4].(Weekly_progress_report_week4.pdf)
-- [Slides](#)
+- [Weekly report 4]()
+- [Slides](Mechatronic_Digital_Logic.pdf)
 - [Course Book](Mechatronics_Electronic_Control_Systems_in_Mechanical_and_Electrical_Engineering.pdf)
-- [Video Demo](#)
+- [Video Demo](https://www.youtube.com/watch?v=_uprqCk3VfE)
 ## Results
-Write 2–4 sentences explaining what your project is about and what you found.
+We designed a robotic arm with multiple actuators to achieve precise movement and object handling. Through analysis and calculations, we selected suitable motors and confirmed that combining actuators at critical joints improves performance. The system is capable of detecting and sorting objects, showing effective integration between sensing, control, and mechanical design.
 ## Bibliography
-- Source 1
-- Source 2
+-Bolton, W. (2019). Mechatronics: Electronic control systems in mechanical and electrical engineering (7th ed.). Pearson.
+-Open Robotics. (n.d.). ROS 2 documentation. Retrieved April 1, 2026, from https://docs.ros.org
